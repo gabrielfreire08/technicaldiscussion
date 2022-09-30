@@ -15,4 +15,6 @@ This is an example of a [code](https://gist.github.com/gabrielfreire08/7199f27d0
 
 ## Images
 
-This is an example of [image](https://github.com/gabrielfreire08/technicaldiscussion/issues/1#issue-1392654309)
+This is an example of image
+
+![inc_angle plot_small](https://user-images.githubusercontent.com/83656500/193310903-d9ca7fbc-6127-4b99-8b1b-7580e5c9eb5c.jpg)
