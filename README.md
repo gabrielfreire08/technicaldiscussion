@@ -7,3 +7,8 @@ Demo repo for sharing ideas around communication
   * One
   * Two
   * Three
+
+
+## Example of Gist
+
+This is an example of a [code](https://gist.github.com/gabrielfreire08/7199f27d0f2f7c83e7bb5693b289ba96) in gist
